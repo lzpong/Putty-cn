@@ -1,6 +1,6 @@
 # Putty-cn
 Putty 中文版,汉化 (Windows)  
-## 版本
+## 版本 v0.69.1053.0
 PuTTY
 
 Development snapshot 2017-06-16.892d4a0
